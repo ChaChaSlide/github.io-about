@@ -1,0 +1,19 @@
+header{
+  background-image: url("http://www.sauknights.com/images/2014-15/Lacrosse-5231.jpg");
+  height: 400 px;
+  background-position: center center;
+  }
+ body{
+  background: #0000ff;
+  }
+ h1{
+  font-family: 'Lobster', cursive;
+  font-size: 75px;
+  position: relative;
+  text-align: center;
+  }
+ p{
+  font-family: 'Pacifico', cursive;
+  font-size: 15px;
+  color: #f0f8ff;
+ }
